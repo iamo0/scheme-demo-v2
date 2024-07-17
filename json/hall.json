@@ -1,0 +1,359 @@
+{
+  "name": "Муромский городской театр",
+  "sections": {
+      "1": {
+          "name": "Сцена"
+      },
+      "2": {
+          "name": "Секция 1"
+      }
+  },
+  "rows": {
+      "2-1": {
+          "number": "1",
+          "section": "2"
+      },
+      "2-2": {
+          "number": "2",
+          "section": "2"
+      },
+      "2-3": {
+          "number": "3",
+          "section": "2"
+      },
+      "2-4": {
+          "number": "4",
+          "section": "2"
+      },
+      "2-5": {
+          "number": "5",
+          "section": "2"
+      }
+  },
+  "seats": {
+      "2-1-1": {
+          "capacity": 1,
+          "number": 1,
+          "linkedSeats": [],
+          "row": "2-1"
+      },
+      "2-1-2": {
+          "capacity": 1,
+          "number": 2,
+          "linkedSeats": [],
+          "row": "2-1"
+      },
+      "2-1-3": {
+          "capacity": 1,
+          "number": 3,
+          "linkedSeats": [],
+          "row": "2-1"
+      },
+      "2-1-4": {
+          "capacity": 1,
+          "number": 4,
+          "linkedSeats": [],
+          "row": "2-1"
+      },
+      "2-1-5": {
+          "capacity": 1,
+          "number": 5,
+          "linkedSeats": [],
+          "row": "2-1"
+      },
+      "2-1-6": {
+          "capacity": 1,
+          "number": 6,
+          "linkedSeats": [],
+          "row": "2-1"
+      },
+      "2-1-7": {
+          "capacity": 1,
+          "number": 7,
+          "linkedSeats": [],
+          "row": "2-1"
+      },
+      "2-1-8": {
+          "capacity": 1,
+          "number": 8,
+          "linkedSeats": [],
+          "row": "2-1"
+      },
+      "2-1-9": {
+          "capacity": 1,
+          "number": 9,
+          "linkedSeats": [],
+          "row": "2-1"
+      },
+      "2-1-10": {
+          "capacity": 1,
+          "number": 10,
+          "linkedSeats": [],
+          "row": "2-1"
+      },
+      "2-1-11": {
+          "capacity": 1,
+          "number": 11,
+          "linkedSeats": [],
+          "row": "2-1"
+      },
+      "2-1-12": {
+          "capacity": 1,
+          "number": 12,
+          "linkedSeats": [],
+          "row": "2-1"
+      },
+      "2-1-13": {
+          "capacity": 1,
+          "number": 13,
+          "linkedSeats": [],
+          "row": "2-1"
+      },
+      "2-1-14": {
+          "capacity": 1,
+          "number": 14,
+          "linkedSeats": [],
+          "row": "2-1"
+      },
+      "2-1-15": {
+          "capacity": 1,
+          "number": 15,
+          "linkedSeats": [],
+          "row": "2-1"
+      },
+      "2-1-16": {
+          "capacity": 1,
+          "number": 16,
+          "linkedSeats": [],
+          "row": "2-1"
+      },
+      "2-1-17": {
+          "capacity": 1,
+          "number": 17,
+          "linkedSeats": [],
+          "row": "2-1"
+      },
+      "2-1-18": {
+          "capacity": 1,
+          "number": 18,
+          "linkedSeats": [],
+          "row": "2-1"
+      },
+      "2-2-1": {
+          "capacity": 1,
+          "number": 1,
+          "linkedSeats": [],
+          "row": "2-2"
+      },
+      "2-2-2": {
+          "capacity": 1,
+          "number": 2,
+          "linkedSeats": [],
+          "row": "2-2"
+      },
+      "2-2-3": {
+          "capacity": 1,
+          "number": 3,
+          "linkedSeats": [],
+          "row": "2-2"
+      },
+      "2-2-4": {
+          "capacity": 1,
+          "number": 4,
+          "linkedSeats": [],
+          "row": "2-2"
+      },
+      "2-2-5": {
+          "capacity": 1,
+          "number": 5,
+          "linkedSeats": [],
+          "row": "2-2"
+      },
+      "2-2-6": {
+          "capacity": 1,
+          "number": 6,
+          "linkedSeats": [],
+          "row": "2-2"
+      },
+      "2-2-7": {
+          "capacity": 1,
+          "number": 7,
+          "linkedSeats": [],
+          "row": "2-2"
+      },
+      "2-2-8": {
+          "capacity": 1,
+          "number": 8,
+          "linkedSeats": [],
+          "row": "2-2"
+      },
+      "2-2-9": {
+          "capacity": 1,
+          "number": 9,
+          "linkedSeats": [],
+          "row": "2-2"
+      },
+      "2-2-10": {
+          "capacity": 1,
+          "number": 10,
+          "linkedSeats": [],
+          "row": "2-2"
+      },
+      "2-2-11": {
+          "capacity": 1,
+          "number": 11,
+          "linkedSeats": [],
+          "row": "2-2"
+      },
+      "2-2-12": {
+          "capacity": 1,
+          "number": 12,
+          "linkedSeats": [],
+          "row": "2-2"
+      },
+      "2-2-13": {
+          "capacity": 1,
+          "number": 13,
+          "linkedSeats": [],
+          "row": "2-2"
+      },
+      "2-2-14": {
+          "capacity": 1,
+          "number": 14,
+          "linkedSeats": [],
+          "row": "2-2"
+      },
+      "2-2-15": {
+          "capacity": 1,
+          "number": 15,
+          "linkedSeats": [],
+          "row": "2-2"
+      },
+      "2-2-16": {
+          "capacity": 1,
+          "number": 16,
+          "linkedSeats": [],
+          "row": "2-2"
+      },
+      "2-2-17": {
+          "capacity": 1,
+          "number": 17,
+          "linkedSeats": [],
+          "row": "2-2"
+      },
+      "2-2-18": {
+          "capacity": 1,
+          "number": 18,
+          "linkedSeats": [],
+          "row": "2-2"
+      },
+      "2-3-1": {
+          "capacity": 1,
+          "number": 1,
+          "linkedSeats": [],
+          "row": "2-3"
+      },
+      "2-3-2": {
+          "capacity": 1,
+          "number": 2,
+          "linkedSeats": [],
+          "row": "2-3"
+      },
+      "2-3-3": {
+          "capacity": 1,
+          "number": 3,
+          "linkedSeats": [],
+          "row": "2-3"
+      },
+      "2-3-4": {
+          "capacity": 1,
+          "number": 4,
+          "linkedSeats": [],
+          "row": "2-3"
+      },
+      "2-3-5": {
+          "capacity": 1,
+          "number": 5,
+          "linkedSeats": [],
+          "row": "2-3"
+      },
+      "2-3-6": {
+          "capacity": 1,
+          "number": 6,
+          "linkedSeats": [],
+          "row": "2-3"
+      },
+      "2-3-7": {
+          "capacity": 1,
+          "number": 7,
+          "linkedSeats": [],
+          "row": "2-3"
+      },
+      "2-3-8": {
+          "capacity": 1,
+          "number": 8,
+          "linkedSeats": [],
+          "row": "2-3"
+      },
+      "2-3-9": {
+          "capacity": 1,
+          "number": 9,
+          "linkedSeats": [],
+          "row": "2-3"
+      },
+      "2-3-10": {
+          "capacity": 1,
+          "number": 10,
+          "linkedSeats": [],
+          "row": "2-3"
+      },
+      "2-3-11": {
+          "capacity": 1,
+          "number": 11,
+          "linkedSeats": [],
+          "row": "2-3"
+      },
+      "2-3-12": {
+          "capacity": 1,
+          "number": 12,
+          "linkedSeats": [],
+          "row": "2-3"
+      },
+      "2-3-13": {
+          "capacity": 1,
+          "number": 13,
+          "linkedSeats": [],
+          "row": "2-3"
+      },
+      "2-3-14": {
+          "capacity": 1,
+          "number": 14,
+          "linkedSeats": [],
+          "row": "2-3"
+      },
+      "2-3-15": {
+          "capacity": 1,
+          "number": 15,
+          "linkedSeats": [],
+          "row": "2-3"
+      },
+      "2-3-16": {
+          "capacity": 1,
+          "number": 16,
+          "linkedSeats": [],
+          "row": "2-3"
+      },
+      "2-3-17": {
+          "capacity": 1,
+          "number": 17,
+          "linkedSeats": [],
+          "row": "2-3"
+      },
+      "2-3-18": {
+          "capacity": 1,
+          "number": 18,
+          "linkedSeats": [],
+          "row": "2-3"
+      }
+  }
+}
